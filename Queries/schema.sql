@@ -59,3 +59,6 @@ DROP TABLE titles;
 
 --Review table
 SELECT * FROM titles;
+
+--DROP TABLE employees tells Postgres that we want to remove the Employees table from the database completely.
+--CASCADE; indicates that we also want to remove the connections to other tables in the database.
