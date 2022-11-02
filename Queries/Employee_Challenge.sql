@@ -12,7 +12,8 @@ ORDER BY _____, _____ DESC;
 
 -- DELIVERABLE 1: The Number of Retiring Employees by Title
 
--- Create retirement_titles table with employees' numbers, name, last name and title for all those born between 1952 and 1955
+-- Create retirement_titles table with employees' numbers, name, last name and title for all those born 
+-- between 1952 and 1955
 SELECT	
 	e.emp_no,
     e.first_name,
