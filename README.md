@@ -10,7 +10,7 @@ Using PostgreSQL & pgAdmin generate a unified database for all company employee 
 ## Results
 Company employee information in Excel files was analyzed to establish how the data related between files using Quick Database Diagrams (QuickDBD) as shown in the next Image:
 
-![Retiring_employees_count](https://github.com/Li11iana/Pewlett-Hackard-Analysis/blob/main/Analysis/Retiring_employees_count.png))
+![QuickDBD-export](https://github.com/Li11iana/Pewlett-Hackard-Analysis/blob/main/Data/QuickDBD-export.png)
 
 Based on that diagram the database on PostgreSQL was generated. From there the following queries and report tables were created to address  retiring personnel concerns.
 
